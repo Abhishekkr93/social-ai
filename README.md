@@ -4,7 +4,7 @@
 It will helps without copy pasting the social icons from icons website and less configurations.
 
 # :rocket: Demo
-[SocialAIDemo](https://github.com/elangosundar/social-ai-test)
+[SocialAIDemo HacktoberFest20](https://github.com/elangosundar/social-ai-test)
 
 # Usage 
 
